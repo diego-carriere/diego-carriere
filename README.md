@@ -35,9 +35,9 @@
 I'm an **engineering student at [IMT Mines Alès](https://www.imt-mines-ales.fr/)** (Software development), following a work-study programme as a **Data Engineer** in the Business Intelligence service of **Capelle Group**. Day to day that means SQL, ETL pipelines, dashboards, migrations and automation. On the side, I'm a **classical pianist** (Chopin fanclub) who likes to see what happens when music theory meets machine learning.
 
 - 🏃‍➡️ **Runner:** Running two or tree time a week
-- 🎹 **Off the keyboard:** classical piano, music theory, composing
+- 🎹 **On the keyboard:** classical piano, music theory, composing
 - 🐧 **Daily driver:** Ubuntu, Docker, Python and open-source tooling
-- 📍 **Location:** Alès, France
+- 📍 **Location:** Montpellier / Alès, France
 
 ---
 
@@ -84,7 +84,7 @@ I'm working on **Music Information Retrieval (MIR)** at the Data Networks Lab of
 - 🔁 Cross-genre comparison and difference of analysis patterns
 
 ### French research
-I am also working on Hit songs Predicition (HSP) at IMT Mines Alès under the supervision of Sylvain Vauttier. We compare the SOTA of harmonic analysis in HSP with romantic piano complex structure. The objective is to identify an optimal musical architecture in order to better understand the technical, and more specifically, harmonic determinants of a work's popularity.
+I am also working on Hit **songs Predicition (HSP)** at IMT Mines Alès under the supervision of Sylvain Vauttier. We compare the SOTA of harmonic analysis in HSP with romantic piano complex structure. **The objective is to identify** an optimal musical architecture, and more specifically, **harmonic determinants of a work's popularity**.
 
 - 🎼 Large  musical data extraction, labeling and excerpt of features.
 - 🤖 Machine learning benchmark to extract harmonic structure popularity
@@ -106,7 +106,8 @@ I am also working on Hit songs Predicition (HSP) at IMT Mines Alès under the su
 ### 📊 Data & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### 🧰 Tools & platforms
@@ -115,12 +116,12 @@ I am also working on Hit songs Predicition (HSP) at IMT Mines Alès under the su
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🖥️ Dev environment
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Dev Containers](https://img.shields.io/badge/Dev_Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ---
 
@@ -148,14 +149,10 @@ I am also working on Hit songs Predicition (HSP) at IMT Mines Alès under the su
   <a href="https://www.linkedin.com/in/diego-carri%C3%A8re-1bb186264/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
   </a>
-</div>
 
----
-
-<div align="center">
+  <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=diego-carriere&color=blue&style=flat-square&abbreviated=true" alt="Profile views" />
-  <br /><br />
-  <em>“Same notes, different tempo.”</em>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
